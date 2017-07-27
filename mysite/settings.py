@@ -25,7 +25,7 @@ SECRET_KEY = '@3i9-1$wwt-l+0a4!w@qee99%j^&fjvdir6toeg+%kp4a#*$##'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<khloerose>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'khloerose.pythonanywhere.com']
 
 
 # Application definition
